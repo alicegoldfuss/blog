@@ -1,14 +1,14 @@
-title:            Blog Title
-description:      Describe your website here.
+title:            Blag
+description:      Blag things
 # put your disqus here
 disqus_shortname: 
 reading_time:     true # if true, shows the estimated reading time for a post
 words_per_minute: 200
-logo:             images/logo.png # logo visible in the topbar
+logo:              # logo visible in the topbar
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: http://aronbordin.com/neo-hpstr-jekyll-theme
+url: 
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -18,47 +18,36 @@ url: http://aronbordin.com/neo-hpstr-jekyll-theme
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Fork'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'Install'
-    url: '/theme-setup/'
   - title: 'Tags'
     url: '/tags'
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
-  - title: 'Favorites'
-    url: '#'
-    submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
 
 # Owner/author information
 owner:
-  name:           Your name
-  site:           http://aronbordin.com
-  avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  name:           Alice Goldfuss
+  site:           http://alicegoldfuss.com
+  avatar:         images/GoldfussNEW.png
+  bio:            Operatrix and professional worrier. Official career nonsense can be found <a href="http://alicegoldfuss.com/about" target="_blank"><i>here.</i></a>
   email:          you@email.com
   # Twitter nick for use in Twitter cards and follow button.
-  twitter: aron_bordin # if no twitter in this config, the twitter follow button will be removed
+  twitter: alicegoldfuss # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
-  github: aron-bordin
+  #github: alicegoldfuss
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
 twitter: 
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
-social:
-  - title: "github"
-    url: "https://github.com/aron-bordin"
-  - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
-  - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+#social:
+#  - title: "github"
+#    url: "https://github.com/aron-bordin"
+#  - title: "linkedin"
+#    url: "https://br.linkedin.com/in/aronbordin"
+#  - title: "youtube"
+#    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
 # Background image to be tiled on all pages
 background:
 
@@ -87,7 +76,7 @@ permalink:   /:categories/:title/
 paginate: 5
 
 # if true, shows the floatting share buttons
-float_share: true
+float_share: false
 
 kramdown:
   auto_ids: true
