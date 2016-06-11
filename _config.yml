@@ -17,20 +17,21 @@ url: http://alicegoldfuss.com/blog
 #   To create sub categories. add a submenu item
 # See the example
 menu:
-  - title: 'Home'
-    url: '/'
-  - title: 'Tags'
-    url: '/tags'
-  - title: 'Categories'
-    url: '/categories'
-    type: 'categories'
+  - title: 'About'
+    url: '/about'
+ # - title: 'Tags'
+  #  url: '/tags'
+  #- title: 'Categories'
+   # url: '/categories'
+    #type: 'categories'
 
 # Owner/author information
 owner:
   name:           Alice Goldfuss
   site:           http://alicegoldfuss.com
   avatar:         images/GoldfussNEW.png
-  bio:            Operatrix and professional worrier. Official career nonsense can be found <a href="http://alicegoldfuss.com/about" target="_blank"><i>here.</i></a>
+  bio: >            
+    Operatrix and professional worrier. Tea drinker, cat lover, bad dancer. Official job nonsense can be found <a href="http://alicegoldfuss.com/about" target="_blank"><i>here.</i></a>
   email:          you@email.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter: alicegoldfuss # if no twitter in this config, the twitter follow button will be removed
