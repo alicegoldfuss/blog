@@ -21,7 +21,7 @@ I hope it helps you as well.
 
 <!-- more -->
 
-##Filing down the pedestals
+## Filing down the pedestals
 
 Imposter Syndrome distorts how you see yourself as compared to others. Everyone else is on a pedestal marked Knows Everything and you’re in a dark pit that doesn’t even deserve a sign.
 
@@ -50,7 +50,7 @@ Noting when my heroes admitted fault didn’t make me respect them any less; it 
 
 So, keep track of your coworkers’ mistakes. That time they broke the build, or didn’t test thoroughly enough, or had to make major revisions to a PR. They might know more than you in some areas, but they don’t know everything.
 
-##Climbing out of the pit
+## Climbing out of the pit
 
 This part makes the assumption that you are a being impacted by a linear expression of time. That is to say, you move forward and change.
 
@@ -74,7 +74,7 @@ Recognizing you’ve grown is beneficial in many ways. It helps you understand t
 
 You know more today than you did yesterday and a ton more than you did a year ago. It takes a while to notice you’ve improved, but I promise you have.
 
-##Finally
+## Finally
 
 I’ve been using these techniques for over a year. They haven’t made me cocky or eliminated all doubt. But I do feel like more of an equal to my coworkers, and I spend less time burning the midnight oil trying to catch up on the sum of all technical knowledge before people catch on.
 
