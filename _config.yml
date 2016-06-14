@@ -1,5 +1,5 @@
 title:            Alice Goldfuss
-description:      Ranty rants
+description:      
 # put your disqus here
 disqus_shortname: 
 reading_time:     true # if true, shows the estimated reading time for a post
@@ -17,6 +17,8 @@ url: http://blog.alicegoldfuss.com
 #   To create sub categories. add a submenu item
 # See the example
 menu:
+  - title: 'Home'
+    url: '/'
   - title: 'About'
     url: '/about'
  # - title: 'Tags'

@@ -242,6 +242,22 @@ header .entry-meta {
 	text-align: center;
 	@include clearfix;
 }
+
+.about {
+	position: relative;
+	background-color: $white;
+	// box-shadow: 0 0 0 1px rgba($border-color,0.1), 0 6px 12px rgba($black,0.1);
+	@include rounded(3px);
+	@media #{$medium} {
+	}
+	@media #{$large} {
+		max-width: 800px;
+	}
+	text-align: center;
+	@include clearfix;
+}
+
+
 .read-more-header {
 	position: absolute;
 	top: -20px;
