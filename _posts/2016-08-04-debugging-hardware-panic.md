@@ -133,4 +133,4 @@ So, why have the check if you’re not going to page on it? The developers I wor
  
 We haven’t needed the ESM log monitoring yet (fingers crossed!) but I’m glad the developers have access to it anyway. My future wishlist includes writing automation to clear the ESM log after a period of time, so only fresh events appear. Otherwise you need to manually clear the log after an incident.
  
-I hope this post have been helpful. Now go back to bed.
+I hope this post has been helpful. Now go back to bed.
