@@ -21,7 +21,7 @@ So I loaded up the kernel dump.
  
 ## Fatal Hardware Error!
  
-There are plenty of guides out there on how to setup and run `crash`. If you’re reading this blog post, I assume you already got that far. If not, [this guide is pretty good](http://blog.zedroot.org/linux-kernel-debuging-using-kdump-and-crash/). Of course, if you haven’t configured your system to record dumps in the first place, take this as a lesson learned and do that ASAP.
+There are plenty of guides out there on how to setup and run `crash`. If you’re reading this blog post, I assume you already got that far. If not, [this guide is pretty good](http://blog.zedroot.org/linux-kernel-debuging-using-kdump-and-crash/){:target="_blank"}. Of course, if you haven’t configured your system to record dumps in the first place, take this as a lesson learned and do that ASAP.
  
 I ran `crash` on the dump and it spat out this:
 
@@ -69,7 +69,7 @@ PID: 0      TASK: ffffffff81a8d020  CPU: 0   COMMAND: "swapper"
 #11 [ffffffff81a01ed0] cpu_idle at ffffffff81009fc6
 {% endhighlight %}
  
-In this case, the failure happened in driver method `intel_idle` at line offset 177. This is usually where you decompile the kernel code (or throw the server away and go back to sleep) but I found the code online instead. The `intel_idle` driver forces CPUs into the lowest activity level when not in use instead of keeping the core warm. It’s meant to boost energy efficiency on your hardware, but I don’t care for the performance hit. In this case it looked like the method had failed to store CPU state for some reason, causing the panic. However, the server was running now and this seemed to be a one-off machine goblin occurrence.
+In this case, the failure happened in driver method `intel_idle` at offset 177. This is usually where you decompile the kernel code (or throw the server away and go back to sleep) but I found the code online instead. The `intel_idle` driver forces CPUs into the lowest activity level when not in use instead of keeping the core warm. It’s meant to boost energy efficiency on your hardware, but I don’t care for the performance hit. In this case it looked like the method had failed to store CPU state for some reason, causing the panic. However, the server was running now and this seemed to be a one-off machine goblin occurrence.
  
 Except a few hours later, when it crashed again.
  
