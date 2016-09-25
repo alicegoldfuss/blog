@@ -5,15 +5,15 @@ share: true
 ---
 <img src="/images/talksphoto.png" alt="">
 
-#Talks
+# Talks
 
-##Upcoming
+## Upcoming
 
 **Passing the Console: Fostering the next generation of ops professionals**
 
 * LISA16
 
-##Past
+## Past
 
 **Rockstars, Builders, and Janitors: You're doing it wrong**
 

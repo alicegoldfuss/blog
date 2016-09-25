@@ -5,9 +5,9 @@ share: true
 ---
 <img src="/images/starwars.jpg" alt="">
 
-#Contact
+# Contact
 
-##Things I'm interested in:
+## Things I'm interested in:
 
 * Speaking opportunities
 * Forming awesome tech friendships
@@ -17,7 +17,7 @@ share: true
 * Delicious teas
 * Good horror films / books
 
-##Things I'm not interested in:
+## Things I'm not interested in:
 
 * Headhunting / recruiting
 * "What's it like being a woman in tech?"
