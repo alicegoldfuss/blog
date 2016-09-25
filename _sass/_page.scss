@@ -303,9 +303,10 @@ header .entry-meta {
 	display: flex;
 }
 .author-bio{
-	padding-top: 30px;
+	padding-top: 10px;
 	padding-left: 20px;
 	flex-grow: 1;
+	text-align: left;
 }
 ul.social-buttons li a {
     display: block;
