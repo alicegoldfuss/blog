@@ -17,6 +17,8 @@ url: http://blog.alicegoldfuss.com
 #   To create sub categories. add a submenu item
 # See the example
 menu:
+  - title: 'Posts'
+    url: '/posts'
   - title: 'Talks'
     url: '/talks'
   - title: 'About'
