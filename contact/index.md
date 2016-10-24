@@ -3,7 +3,8 @@ layout: page
 title: Contact
 share: true
 ---
-<img src="/images/starwars.jpg" alt="">
+<img src="/images/contactphoto.png" alt="">
+<figcaption>Image credit The New Stack</figcaption>
 
 # Contact
 
