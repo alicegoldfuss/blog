@@ -15,6 +15,10 @@ share: true
 
 ## Past
 
+**A Digital Tupperware Party**
+
+* [Container Summit 2016 recording](http://containersummit.io/city-series/2016/portland/videos/containers-at-new-relic){:target="_blank"}
+
 **Rockstars, Builders, and Janitors: You're doing it wrong**
 
 * [Velocity Santa Clara 2016 recording](https://www.youtube.com/watch?v=posb7CzWSFc){:target="_blank"}
