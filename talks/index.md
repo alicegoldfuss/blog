@@ -9,11 +9,13 @@ share: true
 
 ## Upcoming
 
-**Passing the Console: Fostering the next generation of ops professionals**
-
-* LISA16
+*Stay tuned!*
 
 ## Past
+
+**Passing the Console: Fostering the next generation of ops professionals**
+
+* [LISA16 recording](https://www.usenix.org/conference/lisa16/conference-program/presentation/goldfuss){:target="_blank"}
 
 **A Digital Tupperware Party**
 
