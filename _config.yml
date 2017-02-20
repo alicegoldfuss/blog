@@ -25,6 +25,8 @@ menu:
     url: '/about'
   - title: 'Contact'
     url: '/contact'
+  - title: 'RSS'
+    url: '/feed.xml'
  # - title: 'Tags'
   #  url: '/tags'
   #- title: 'Categories'
