@@ -15,7 +15,7 @@ Some of it was personal morals, but most of it was personal taste. I would sip f
 
 ## First sip
 
-In early 2016, I had the fantastic opportunity to speak in London. This was my first time traveling aboard, and my small-town USA heart was overjoyed.
+In early 2016, I had the fantastic opportunity to speak in London. This was my first time traveling abroad, and my small-town USA heart was overjoyed.
 
 I had traveled between time zones before. I had worked nighttime on-call pages before. Combined, those experiences almost prepared me for West Coast to UK jet lag.
 
@@ -57,7 +57,7 @@ Think of how many times social drinking has been a part of your career. Getting 
 
 This made everything, from networking to connecting with my coworkers, difficult and awkward. I know I missed out on opportunities because my water and brownie were out of the norm. I was even told at one point that I couldn’t be trusted until I drank alcohol. I didn’t fit in, in the simplest of ways, so I was left out.
 
-You know what other social shortcuts I don’t have? Building a computer with my dad. Learning to solder in Boy Scouts. Traveling aboard as a kid. All common experiences among men in tech. All used to connect at networking events and in interviews.
+You know what other social shortcuts I don’t have? Building a computer with my dad. Learning to solder in Boy Scouts. Traveling abroad as a kid. All common experiences among men in tech. All used to connect at networking events and in interviews.
 
 **Here are some experiences that I have, but other tech workers don’t:**
 
