@@ -9,7 +9,9 @@ share: true
 
 ## Upcoming
 
-*Stay tuned!*
+**Martyrs on Film: learning to hate the #oncallselfie**
+
+* Monitorama
 
 ## Past
 
