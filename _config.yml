@@ -37,7 +37,7 @@ menu:
 owner:
   name:           Alice Goldfuss
   site:           http://alicegoldfuss.com
-  avatar:         images/slack.jpeg
+  avatar:         images/gardengoth4.JPG
   bio: >
         Alice Goldfuss is a systems sorceress. She’s consulted on some books (<i>Docker: Up & Running</i>, <i>Effective DevOps</i>), presented at some conferences (SREcon, Velocity, Container Summit), and runs some others (LISA17, DevOps Days Portland). You can follow her on Twitter <a href="http://twitter.com/alicegoldfuss" target="_blank">(@alicegoldfuss)</a>, but you’ll probably regret it.
   email:          you@email.com

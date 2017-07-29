@@ -9,11 +9,13 @@ share: true
 
 ## Upcoming
 
-**Martyrs on Film: learning to hate the #oncallselfie**
-
-* Monitorama
+Stay tuned!
 
 ## Past
+
+**Martyrs on Film: learning to hate the #oncallselfie**
+
+* [Monitorama 2017 recording](https://vimeo.com/221050366){:target="_blank"}
 
 **Passing the Console: Fostering the next generation of ops professionals**
 
