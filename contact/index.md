@@ -8,21 +8,18 @@ share: true
 
 # Contact
 
-## Things I'm interested in:
+## :tada: Things I'm interested in:
 
-* Speaking opportunities
-* Forming awesome tech friendships
-* Women's size tech shirts
-* Free / cheap educational materials
-* Fine chocolates
-* Delicious teas
-* Good horror films / books
+:books: Free / cheap educational materials  
+:chocolate_bar: Fine chocolates  
+:tea: Delicious teas  
+:sunglasses: Dank memes  
 
-## Things I'm not interested in:
+## :no_entry_sign: Things I'm not interested in:
 
-* Headhunting / recruiting
-* "What's it like being a woman in tech?"
-* Volunteering my time at your company's diversity initiative
+:speaking_head: Headhunting / recruiting  
+:woman_technologist: "What's it like being a woman in tech?"  
+:cocktail: Volunteering my time at your company's diversity initiative  
 
 **Longform thoughts:** nautalice [at] github [dot] com 
 

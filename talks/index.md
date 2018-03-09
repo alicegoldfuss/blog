@@ -3,23 +3,26 @@ layout: page
 title: Talks
 share: true
 ---
-<img src="/images/talksphoto.png" alt="">
+<img src="/images/janitors.jpg" alt="">
+<figcaption>Image credit Praqma</figcaption>
 
 # Talks
 
 ## Upcoming
 
-Stay tuned!
+* The Container Operator's Manual at [The Lead Developer London](https://london2018.theleaddeveloper.com/){:target="_blank"}
 
 ## Past
 
 **Martyrs on Film: learning to hate the #oncallselfie**
 
 * [Monitorama 2017 recording](https://vimeo.com/221050366){:target="_blank"}
+* [Slides](https://speakerdeck.com/alicegoldfuss/martyrs-on-film-learning-to-hate-the-number-oncallselfie){:target="_blank"}
 
 **Passing the Console: Fostering the next generation of ops professionals**
 
 * [LISA16 recording](https://www.usenix.org/conference/lisa16/conference-program/presentation/goldfuss){:target="_blank"}
+* [Slides](https://speakerdeck.com/alicegoldfuss/passing-the-console-fostering-the-next-generation-of-ops-professionals){:target="_blank"}
 
 **A Digital Tupperware Party**
 
@@ -28,6 +31,8 @@ Stay tuned!
 **Rockstars, Builders, and Janitors: You're doing it wrong**
 
 * [Velocity Santa Clara 2016 recording](https://www.youtube.com/watch?v=posb7CzWSFc){:target="_blank"}
+* [FutureStack 2016 recording](https://www.youtube.com/watch?v=I_XAVXFO8-s){:target="_blank"}
+* [DockerCon EU 2017 recording](https://dockercon.docker.com/watch/ams9ztREHRBU8bHpvZ6fr6){:target="_blank"}
 * [Slides](https://speakerdeck.com/alicegoldfuss/rockstars-builders-and-janitors-youre-doing-it-wrong){:target="_blank"}
 
 **nrrd 911 ic me: The Incident Commander Role**

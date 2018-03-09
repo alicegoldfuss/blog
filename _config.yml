@@ -37,9 +37,12 @@ menu:
 owner:
   name:           Alice Goldfuss
   site:           http://alicegoldfuss.com
-  avatar:         images/gardengoth4.JPG
-  bio: >
-        Alice Goldfuss is a systems sorceress. She’s consulted on some books (<i>Docker: Up & Running</i>, <i>Effective DevOps</i>), presented at some conferences (SREcon, Velocity, Container Summit), and runs some others (LISA17, DevOps Days Portland). You can follow her on Twitter <a href="http://twitter.com/alicegoldfuss" target="_blank">(@alicegoldfuss)</a>, but you’ll probably regret it.
+  avatar:         images/happygoth.jpeg
+  bio: |+
+       Alice Goldfuss is a systems punk currently helping GitHub run their cutting-edge container platform. She loves kernel crashes, memory design, and performance hacks. :rainbow: :floppy_disk: :octocat:
+       <br>
+       <br>
+       Alice has consulted on some books (<i>Docker: Up & Running</i>, <i>Effective DevOps</i>, <i>Site Reliability Engineering vol 2</i>), presented at some conferences (SREcon, Velocity, Container Summit), and run some others (LISA17, DevOps Days Portland). You can follow her on Twitter :bird: <a href="http://twitter.com/alicegoldfuss" target="_blank">(@alicegoldfuss)</a>, but you’ll probably regret it.
   email:          you@email.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter: alicegoldfuss # if no twitter in this config, the twitter follow button will be removed
@@ -107,4 +110,4 @@ titlecase: true
 
 include: [".htaccess"]
 exclude: ["exampleposts", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jemoji]
