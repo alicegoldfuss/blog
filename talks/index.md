@@ -3,16 +3,22 @@ layout: page
 title: Talks
 share: true
 ---
-<img src="/images/janitors.jpg" alt="">
-<figcaption>Image credit Praqma</figcaption>
+<img src="/images/leaddev.jpg" alt="">
+<figcaption>Image credit Phil Parker</figcaption>
 
 # Talks
 
 ## Upcoming
 
-* The Container Operator's Manual at [The Lead Developer London](https://london2018.theleaddeveloper.com/){:target="_blank"}
+* Taking a break in 2019!
 
 ## Past
+
+**The Container Operator's Manual**
+
+* [The Lead Developer London 2018 keynote](https://www.youtube.com/watch?v=sJx_emIiABk){:target="_blank"}
+* [Velocity NY 2018 recording](https://www.youtube.com/watch?v=zGw_xKF47T0){:target="_blank"}
+* [Slides](https://speakerdeck.com/alicegoldfuss/the-container-operators-manual){:target="_blank"}
 
 **Martyrs on Film: learning to hate the #oncallselfie**
 
