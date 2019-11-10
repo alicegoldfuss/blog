@@ -43,10 +43,7 @@ owner:
   site:           http://alicegoldfuss.com
   avatar:         images/smokeyeye-lg.png
   bio: |+
-       Alice Goldfuss is a systems punk currently helping GitHub run their cutting-edge container platform. She loves kernel crashes, memory design, and performance hacks. :rainbow: :floppy_disk: :octocat:
-       <br>
-       <br>
-       Alice has consulted on some books (<i>Docker: Up & Running</i>, <i>Effective DevOps</i>, <i>Site Reliability Engineering vol 2</i>), presented at some conferences (SREcon, Velocity, Container Summit), and run some others (LISA17, DevOps Days Portland). You can follow her on Twitter :bird: <a href="http://twitter.com/alicegoldfuss" target="_blank">(@alicegoldfuss)</a>, but you’ll probably regret it.
+       Alice Goldfuss is a systems punk with years of experience working on cutting-edge container platforms. She’s an international speaker who enjoys building modern infrastructure at-scale and streaming Capture the Flag challenges on the weekends. Alice has written articles, consulted on publications, built communities, and sipped many cups of tea. She hasn’t written a book, but you’ve probably read her tweets <a href="http://twitter.com/alicegoldfuss" target="_blank">(@alicegoldfuss)</a>. 
   email:          you@email.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter: alicegoldfuss # if no twitter in this config, the twitter follow button will be removed
