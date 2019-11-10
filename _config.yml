@@ -43,7 +43,10 @@ owner:
   site:           http://alicegoldfuss.com
   avatar:         images/smokeyeye-lg.png
   bio: |+
-       Alice Goldfuss is a systems punk with years of experience working on cutting-edge container platforms. She’s an international speaker who enjoys building modern infrastructure at-scale and streaming Capture the Flag challenges on the weekends. Alice has written articles, consulted on publications, built communities, and sipped many cups of tea. She hasn’t written a book, but you’ve probably read her tweets <a href="http://twitter.com/alicegoldfuss" target="_blank">(@alicegoldfuss)</a>. 
+       Alice Goldfuss is a systems punk with years of experience working on cutting-edge container platforms. She’s an international speaker who enjoys building modern infrastructure at-scale and streaming Capture the Flag challenges on the weekends.
+       <br>
+       <br>
+       Alice has written articles, consulted on publications, built communities, and sipped many cups of tea. She hasn’t written a book, but you’ve probably read her tweets <a href="http://twitter.com/alicegoldfuss" target="_blank">(@alicegoldfuss)</a>. 
   email:          you@email.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter: alicegoldfuss # if no twitter in this config, the twitter follow button will be removed
