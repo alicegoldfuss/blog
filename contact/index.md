@@ -21,6 +21,6 @@ share: true
 :woman_technologist: "What's it like being a woman in tech?"  
 :cocktail: Volunteering my time at your company's diversity initiative  
 
-**Longform thoughts:** nautalice [at] github [dot] com 
+**Longform thoughts:** sysctlfish [at] gmail [dot] com 
 
 **Shortform thoughts (most likely to get a quick reply):** [@alicegoldfuss](http://twitter.com/alicegoldfuss){:target="_blank"}
