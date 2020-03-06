@@ -10,13 +10,15 @@ share: true
 
 ## Upcoming
 
-* Taking a break in 2019!
+* Taking a break in 2020!
 
 ## Past
 
 **The Container Operator's Manual**
 
-* [The Lead Developer London 2018 keynote](https://www.youtube.com/watch?v=sJx_emIiABk){:target="_blank"}
+* [**Keynote** LISA19](https://www.youtube.com/watch?v=Fm2tDgf40ss){:target="_blank"}
+* [**Keynote** DevOpsDays Minneapolis 2019](https://www.youtube.com/watch?v=q1BnNRId0R4){:target="_blank"}
+* [**Keynote** The Lead Developer London 2018](https://www.youtube.com/watch?v=sJx_emIiABk){:target="_blank"}
 * [Velocity NY 2018 recording](https://www.youtube.com/watch?v=zGw_xKF47T0){:target="_blank"}
 * [Slides](https://speakerdeck.com/alicegoldfuss/the-container-operators-manual){:target="_blank"}
 
