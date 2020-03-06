@@ -10,8 +10,8 @@ share: true
 
 ## :tada: Things I'm interested in:
 
-:speaking_head: Being hired 
-:books: Free / cheap educational materials  
+:speaking_head: Being hired  
+:books: Free / cheap educational materials
 :chocolate_bar: Fine chocolates  
 :tea: Delicious teas  
 :sunglasses: Dank memes  
