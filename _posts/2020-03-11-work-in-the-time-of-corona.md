@@ -121,7 +121,7 @@ When the workday is over, it’s **over**. You owe it to yourself and your teamm
 
 Even if you’re just switching from a work screen to a personal one, that shift matters. You need to shut off your work brain so you can decompress. Now is the time to reconnect with the outside world and get a good night’s sleep.
 
-<img src="/images/hands_ctf.png" alt="Screenshot from one of my CTF streams on Twitch. I'm dressed in black and explaining something with my hands, which are raised on either side of my face. I'm well-lit, in-focus, and in-frame.">
+<img src="/images/ctf_hands.png" alt="Screenshot from one of my CTF streams on Twitch. I'm dressed in black and explaining something with my hands, which are raised on either side of my face. I'm well-lit, in-focus, and in-frame.">
 <figcaption>An extremely flattering screenshot from my CTF stream. My background is clean and decorated, my face is well-lit, and my gestures are in-frame.</figcaption>
 
 ## Remember: this isn’t normal
