@@ -10,7 +10,9 @@ share: true
 
 ## Upcoming
 
-* Taking a break in 2020!
+**Strategies for rapidly pivoting to remote work (Panel)**
+
+* [Lead Dev Live](https://live.theleaddev.com/talks/best-practices-for-pivoting-to-remote-work/){:target="_blank"}
 
 ## Past
 
