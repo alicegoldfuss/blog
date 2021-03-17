@@ -10,11 +10,21 @@ share: true
 
 ## Upcoming
 
-**Strategies for rapidly pivoting to remote work (Panel)**
-
-* [Lead Dev Live](https://live.theleaddev.com/talks/best-practices-for-pivoting-to-remote-work/){:target="_blank"}
+*Nothing yet!*
 
 ## Past
+
+**How to Build an SRE Superhero (Panel)**
+
+* [The New Stack](https://www.youtube.com/watch?v=X-dOZQqr1Tk){:target="_blank"}
+
+**Tea and Anarchy (Panel)**
+
+* [Arrested DevOps](https://www.arresteddevops.com/tea-and-anarchy/){:target="_blank"}
+
+**Strategies for rapidly pivoting to remote work (Panel)**
+
+* [Lead Dev Live](https://leaddev.com/team/strategies-rapidly-pivoting-remote-work){:target="_blank"}
 
 **The Container Operator's Manual**
 
