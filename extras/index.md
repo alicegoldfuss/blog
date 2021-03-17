@@ -3,8 +3,7 @@ layout: page
 title: Extras
 share: true
 ---
-Extras!
-
+# Extras!
 
 <a href="https://interruptdesigns.threadless.com/" target="blank"><img src="/images/panic.png" alt="Panic! at the Kernel design." width="150px" style="float:left;margin-right:20px"></a>
 
